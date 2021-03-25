@@ -1,2 +1,2 @@
 # FormTest
-A basic form crated using basic html and css
+A basic form created using basic html and css
